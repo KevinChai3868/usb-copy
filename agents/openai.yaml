@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copy Lobster USB"
+  short_description: "Copy Lobster AI USB drives with keys"
+  default_prompt: "Use $copy-lobster-usb to copy the Lobster AI USB folder to all currently inserted removable drives and assign license keys."
